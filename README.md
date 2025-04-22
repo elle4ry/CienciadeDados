@@ -62,6 +62,3 @@ Ajuste dos índices para garantir a integridade dos dados.
 
 🔹 Relatório Final
 Geração de um relatório detalhado no console, apresentando as estatísticas do processo de limpeza realizado.
-
-✅ Resultado Esperado
-O processo de limpeza e organização tem como meta produzir um conjunto de dados estruturado e sem erros. Ao final, o DataFrame estará livre de falhas como dados ausentes, duplicações e formatação inconsistente, tornando-o adequado para análises exploratórias, visualizações e o desenvolvimento de modelos preditivos.
